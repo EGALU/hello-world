@@ -1,2 +1,5 @@
 # hello-world
-test repository
+
+Holla kavabangas!
+
+Testing  the GitHub. Had motiveated by kamazas viwev))) 
